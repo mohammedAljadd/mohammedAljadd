@@ -23,3 +23,8 @@ My name is Mohammed AL JADD, I am 21 years old and I am currently studying telec
 I am interested in telecom field as well as AI. My aim is to use AI to serve the telecom industry and making people lifes easier.
 
 <a href='https://www.linkedin.com/in/mohammed-al-jadd-a540281b7/'> My LinkedIn profil </a>
+
+
+In my github account you will find my projects related to machine learning and deep learning!
+
+Have a nice day 😄 !
