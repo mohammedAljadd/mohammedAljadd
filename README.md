@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 My name is Mohammed AL JADD, I am 21 years old and I am currently studying telecommunications engineering at the National Institute of Posts and Telecommunications INPT.
-I am interested in telecom field as well as AI because I want to use AI to serve the telecom industry and also anything that could help humanity.
+I am interested in telecom field as well as AI. My aim is to use AI to serve the telecom industry and making people lifes easier.
 
 <a href='https://www.linkedin.com/in/mohammed-al-jadd-a540281b7/'> My LinkedIn profil </a>
