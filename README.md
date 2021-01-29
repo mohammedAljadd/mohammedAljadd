@@ -1,4 +1,4 @@
-<img src='https://github.com/mohammedAljadd/mohammedAljadd/blob/main/me.jpg'>
+<img src='https://github.com/mohammedAljadd/mohammedAljadd/blob/main/me_c.jpg'>
 
 
 ### Hi there 👋
