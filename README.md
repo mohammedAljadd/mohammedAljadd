@@ -1,6 +1,3 @@
-<img src='https://github.com/mohammedAljadd/mohammedAljadd/blob/main/me_c.jpg'>
-
-
 ### Hi there 👋
 
 <!--
@@ -28,3 +25,6 @@ I am interested in telecom field as well as AI. My aim is to use AI to serve the
 In my github account you will find my projects related to machine learning and deep learning!
 
 Have a nice day 😄 !
+
+<img src='https://github.com/mohammedAljadd/mohammedAljadd/blob/main/me_c.jpg'>
+
