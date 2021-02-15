@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 <!--
 **mohammedAljadd/mohammedAljadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,8 @@ My name is Mohammed AL JADD, I am 21 years old and I am currently studying telec
 I am interested in telecom field as well as AI. My aim is to use AI to serve the telecom industry and making people lifes easier.
 
 - 📫 How to reach me: 
-My LinkedIn profil : <a href='https://www.linkedin.com/in/mohammed-al-jadd-a540281b7/'>link</a> <br>
+My LinkedIn profil : <b>
+<a href='https://www.linkedin.com/in/mohammed-al-jadd-a540281b7/'>link</a> <br>
 My email adress : mohammedaljadd8@gmail.com 
 
 
