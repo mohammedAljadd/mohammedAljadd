@@ -21,7 +21,7 @@ I am interested in telecom field as well as AI. My aim is to use AI to serve the
 
 - 📫 How to reach me:  <b>
 
-My LinkedIn profil: <a href='https://www.linkedin.com/in/mohammed-al-jadd-a540281b7/'>link</a>
+My LinkedIn profil: <a href='https://www.linkedin.com/in/mohammed-al-jadd-a540281b7/'>link</a><br>
 My email adress : mohammedaljadd8@gmail.com 
 
 
