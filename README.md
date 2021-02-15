@@ -28,5 +28,3 @@ In my github account you will find my projects related to machine learning and d
 
 Have a nice day 😄 !
 
-<img src='https://github.com/mohammedAljadd/mohammedAljadd/blob/main/me_c.jpg'>
-
